@@ -1,0 +1,27 @@
+---
+0.0.1 jquery-rails:>= 0|checksum:ed57331dde483c3c05cda38b6350a5a15654e8494c976f185091971a2ed44224
+0.0.2 jquery-rails:>= 0|checksum:8974db73e034105216c3355cacb6102277ad433a53e5d7aa6a285235887ef012
+0.1.0 jquery-rails:>= 0|checksum:209f996d6e614a624df4d0294046bc4159d024f370a67438f8042e208d5165c7
+1.9.0 jquery-rails:>= 0|checksum:e91ef0951a6cf410046d7ce22afab11c0c1417c242975adc885fed6bddf71d3b
+1.9.1.1 jquery-rails:>= 0|checksum:62b027882f0e032bbe5c51b5d862eab0f8ccce802c473fa399afde20a2a33e09
+1.9.1.2 jquery-rails:>= 0|checksum:63a8996cac1136cf21b94a4637bc2871863ec791089a08fe48be6b5dcc945de5
+1.9.1.3 jquery-rails:>= 0|checksum:8956ad6c35842a95ff0f607647a0a2e386d993a325788aa2f2960cdef81cc714
+1.10.0 jquery-rails:>= 0|checksum:17e2a106859f5f1fc7cf2fbccd355ce3b36cdfa937af929f04dbbb8d78ee335b
+1.11.0 jquery-rails:>= 0|checksum:d38ae2bb7a025de947f8e60d70baf40500ec0cbe14f2514efdbf0342a73561fe
+1.11.1 jquery-rails:>= 0|checksum:d1b3713ee1fadd64f81d0bd5973c6748799f9282f1734271915bc49724856e9e
+1.11.2 jquery-rails:>= 0|checksum:b7c021d2498e97cdfac4d8409d47b188de83aace5e0f0bf1a87b200238761db0
+1.11.3 jquery-rails:>= 0|checksum:81f8cc320d7d0fc4461179f4a6e258fd14586a98d75d78e781d8ad88471aad3e
+1.12.2 jquery-rails:>= 0|checksum:918d23c15897cbf658e14277df3a25d9d258df054175d43c0de4c4d78f2ec051
+2.1.10.0.0 jquery-rails:>= 0,sass-rails:>= 0|checksum:1d8cc3135bea2eafb1631a1eeed94a51fd59285a98f17a346ee9cdd914c6c5a8
+2.1.10.0.2 jquery-rails:>= 0,sass-rails:>= 0|checksum:6df9efa70da8ec09dae021f5b704d81e03c030091a1f5504626a9f6cb0ad5241
+2.1.10.0.3 jquery-rails:>= 0,sass-rails:>= 0|checksum:e1d55c397b4c0fa319bd99005a6ce6519e70d3cbb83239f66bdbb455b5f98fc2
+2.2.0 jquery-rails:>= 0,sass-rails:>= 0|checksum:bdcb5cb5ae7f19e07fd945acf62d21504042197626826f85084430168635fce9
+2.2.1 jquery-rails:>= 0,sass-rails:>= 0|checksum:0869c4f9403fbdc84a9af8078f63ea6dc653006a300e0daf627118b50e00c5e9
+2.2.2 jquery-rails:>= 0,sass-rails:>= 0|checksum:0278f954b7f4648f1b0bf85b4bf7ae6d6a3b6ea71c23e93b6ec6359fcdf497c2
+2.2.3 jquery-rails:>= 0,sass-rails:>= 0|checksum:3c30e08d73fb32e3d24cdd6ee29d8b1ed7e02a579e771a6a6fb2f5cec17196eb
+3.0.0 jquery-rails:>= 0,sass-rails:>= 0|checksum:888e8d15863876a155e8ef199f3fc21a7f98a66782e8579641f6204c415fa707
+3.1.0 actionpack:>= 3.1,jquery-rails:>= 0,railties:>= 3.1,sass-rails:>= 0|checksum:77ab5fdb5f57a2c92c7880c334409fff952e9d335ddf947d5d4769c7f1f3c544
+3.1.1 actionpack:>= 3.1,jquery-rails:>= 0,railties:>= 3.1,sass-rails:>= 0|checksum:2186344c57e30d4d0ab3f244a89ef9d583b9a88d03f2a8243137c72502cf15a5
+3.2.0 actionpack:>= 3.1,jquery-rails:>= 0,railties:>= 3.1,sass-rails:>= 0|checksum:505c766a9992ec500f98789970538de93b2d5244497f6122b41ad190c343c5aa
+3.3.0 actionpack:>= 3.1,jquery-rails:>= 0,railties:>= 3.1,sass-rails:>= 0|checksum:9077cb9585a862d4db382f665953a62d24f54d2b32611169bf54301c390a76cb
+3.4.0 actionpack:>= 3.1,jquery-rails:>= 0,railties:>= 3.1,sass-rails:>= 0|checksum:c1a1a7074182defcefb2f72599b4d36d80e05ff7305a3145aa419c3a17db1aba

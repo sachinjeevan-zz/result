@@ -1,0 +1,32 @@
+testcases = TestCase.all
+testcases.each do |testc|
+testc.save
+end
+exit
+@college_name = "St. Joseph College of Engineering"
+        @year_name = "2022"
+        @course_name = "C Programming"
+        @college = College.where(name: @college_name).first
+        @years = Year.where(name: @year_name, college_id: @college[:id]).first
+        @batches = Batch.where(year_id: @years[:id]).all
+        @course = Course.where(name: @course_name).first
+        @result = []
+        @batches.each do |batch|
+            batch.departments.each do |department|
+                department.users.each do |user|
+                   @ans = { name: user[:first_name]+ " " + user[:last_name],email: user[:email], roll_no: user[:roll_no], college: @college_name , year: @year_name, batch: batch[:name], department: department[:name], category: @course.category[:name] , course: @course_name} 
+                   @ans["details"] = [@course[:details][0][:test_count]]
+                   @attempts = Attempt.where(user_id: user[:id], course_id: @course[:id], status: false).distinct(:contest_id)
+                    @ans["details"] << @attempts.length
+                    @ans["details"] << ('%.2f' % ((@ans["details"][1]*100.0)/@ans["details"][0]))
+                    @result << @ans
+                end
+            end
+        end
+@results
+@result
+file = File.open("/home/ubuntu/joseph.txt")
+file = File.open("/home/ubuntu/joseph.txt",w)
+file = File.open("/home/ubuntu/joseph.txt","w")
+file.write(@result)
+exit

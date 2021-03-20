@@ -1,0 +1,20 @@
+---
+0.1.0 |checksum:34ee9f40c94122189bbd38a59fb5086a35ce72d609f2815dae6f60dc1ee8a9a0
+0.1.1 |checksum:6f98597dcfa5cdad77ff33596011bbfd5f9f1ecebb97c9b195568ff50161f27f
+0.1.2 |checksum:a7af755f6ab6aff05250e1bea694edfc7e8f2e2f5febe8aa045f6950cb5f9e6d
+0.1.3 |checksum:bde41af874dd218215a52c34dda55c6545de910175bad64364ac7a8039c5d5fa
+0.1.4 |checksum:fc2553c0700d20ea44675929c6dc30eef6c5479b970ff6920eb64cda80e84fd7
+0.1.5 |checksum:3d7067aa2a763f3e9a39f172958a3d47e8303e427681dea256cf51dbd429def8
+0.1.6 |checksum:3b35a52a8acf8f617f477035b4d9c18ef422c04a9597ab0bdb31890275f34fdb
+0.1.7 |checksum:3aef4151e0945f20c2a2b2d105677929a3f74e349065c3f61ad065dce9b2235b
+0.1.8 |checksum:93dcd44aaafae2e5745426d437557bff11d41266875ce5dcfd948ab62f23d113
+0.1.9 |checksum:017b0b7a222b4e022943424cf6dc89f7480df42b4b4edfab52cf606c86d3d224
+1.0.0 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6|checksum:8c4355c2ca0a73d5c922dd58f654cd6fcf9952c6f20c94f1b87055f4a34a1469
+1.1.0 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6|checksum:4423e563424b1082e6c117a52a350b2da550e9a65def2ce3b3052f349a332de5
+1.2.0 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6,simple_xlsx_reader:~> 1.0|checksum:18ec6ff2e8b79deefa773cbc2d535659ab3c8e6b91208aa210954405b50570b6
+1.3.0 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6,simple_xlsx_reader:~> 1.0|checksum:f60e2870f5273b9154717498a8a17e34b04cdb80bdbc733e5f097188468f2167
+1.3.1 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6,simple_xlsx_reader:~> 1.0|checksum:f97e9a8aa5d266f275979fd3e2734f9409af92f676d1b2a2116e889b2974bfc8
+1.4.0 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6,simple_xlsx_reader:~> 1.0|checksum:a17835bc8aa80f3c51518f466432b10a198dc10e49aaef58bbcef2065e47a014
+2.0.0 haml:~> 4.0,rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6,simple_xlsx_reader:~> 1.0|checksum:fd70663738c59d78987fbe5712b22ec4cd1f203916d6bbca076e2973f435d61e
+2.1.0 rails:>= 3.2,rails_admin:>= 0.6.6,rchardet:~> 1.6,simple_xlsx_reader:~> 1.0|checksum:673679f69c0c880de7a370888a2cf952195b76fcc1c899685ef55669a964e5af
+2.2.0 charlock_holmes:~> 0.6,rails:>= 3.2,rails_admin:>= 0.6.6,simple_xlsx_reader:~> 1.0|checksum:8f54caea230f8250b3aa7570d9550b040e9e5341d081defe5ae4b0084feaf9fb

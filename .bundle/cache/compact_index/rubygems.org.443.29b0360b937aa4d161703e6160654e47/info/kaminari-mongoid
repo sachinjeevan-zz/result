@@ -1,0 +1,6 @@
+---
+0.1.0 |checksum:86c92db2fc4c83754203294aa2ab33b84887f6574f01cbb2519f52ae7d6c7fdd
+0.1.2 kaminari:>= 0|checksum:3ebde7f5286d14d015e05aa59c785d73e4336119e5ca7329c13567f45da696ba
+1.0.0.rc1 kaminari-core:= 1.0.0.rc1,mongoid:>= 0|checksum:d9fb00a838bd3ed4aa35940abd48792059c6c4f5d40d32d04d18de96e19f14e6,rubygems:> 1.3.1
+1.0.0 kaminari-core:= 1.0.0,mongoid:>= 0|checksum:f31bc0e78965d861c0ad0ea0d1bc9e4e6fae218c6befa3631ea77bccad755fdc
+1.0.1 kaminari-core:~> 1.0,mongoid:>= 0|checksum:d2ceebba3821e1ebc67a7d004a122bd8d33599fd5cd9dcc8ee79467c28b9d483

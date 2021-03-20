@@ -1,0 +1,9 @@
+---
+0.1.0 compass-rails:>= 0,railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:fc2f96113dfa049402606a424b932b2e04383e4eaab98aa88d69514a6b3f816e
+0.2.0 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:71b165945191ee01b8a96c345d7899e06545b0ce597772588e6c34f60a1f63ef
+2.0.0.0 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:0c7050a214d7abce4c28ef01a2a6a38bb8f7feb708d2c5cde2f903bf585245fe
+3.0.0.0 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:bdd5da385758f3eddaec730e5115aaf6b3183b33da63de110df86a28d03ff637
+3.0.0.1 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:70f80d29e55205f65510140833a7593b6df57c95192026d56f9aa3e43ef1c31a
+3.0.2.0 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:4f594b59b0619c64d9a3708a89206c48fdeb3de02f04e90ed1734a6dc96d30d0
+3.0.2.1 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:ef760994fce472614bc5178c97e6852e70898f941657c24ed828f499e2676d1a
+3.0.2.2 railties:>= 3.1.1,sass-rails:>= 3.1.1|checksum:fb01bd0453c2522fa840a402c268edc457983c2d42702e66ec6e4314cfaa434e

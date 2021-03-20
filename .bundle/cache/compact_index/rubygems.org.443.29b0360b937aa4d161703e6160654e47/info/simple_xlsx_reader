@@ -1,0 +1,16 @@
+---
+0.0.1 nokogiri:>= 0,rubyzip:>= 0|checksum:9a32e66a03c7d286045442109913507a4a5e16473f3f56a303145c9d3849917c
+0.9.0 nokogiri:>= 0,rubyzip:>= 0|checksum:7936c3b33d29ed94b8b00c9053f3b7a0679f05f03d15e2928d3b1aa97b6df884
+0.9.1 nokogiri:>= 0,rubyzip:>= 0|checksum:820d0df5a62f435742a9c5ecd0ce6d47526e917357b5a63581dc30b499d09992
+0.9.2 nokogiri:>= 0,rubyzip:>= 0|checksum:21f5c0a165b15cdfd4406bf0167807fc4a95d13d6ab6de6d0c7116d430535f38
+0.9.3 nokogiri:>= 0,rubyzip:>= 0|checksum:dbb92e27f7b16833a7c5be89fddb200023893c9fdc5d779cb2f3bb2e6c8345d0
+0.9.4 nokogiri:>= 0,rubyzip:>= 0|checksum:a03aa02af929f6df8b01598c81789d492be3cf9174959fcf650bbdbba8b54732
+0.9.5 nokogiri:>= 0,rubyzip:>= 0|checksum:497d326e4972a084d9edaafd15ca03556795a476d97561c88747b0bb9bcc88ae
+0.9.6 nokogiri:>= 0,rubyzip:>= 0|checksum:4346fbcaf41997ae1836490f02908fdf61d0108d2404ddb279d0a18a86df6ec8
+0.9.7 nokogiri:>= 0,rubyzip:>= 0|checksum:f04927455c45450ce247b2b5dd4b1e5ffa64df9bb28ff84f6de2863bcd3b03c8
+0.9.8 nokogiri:>= 0,rubyzip:>= 0|checksum:6cc564ceeaf6c50dacba6b26f13ac25ff6ff4e1542fa00103d3ce90f0da9655e
+1.0.0.pre nokogiri:>= 0,rubyzip:>= 0|checksum:22a7ff3f4d491cf3338f85ceb54efe926987346775f5c47ebde61f069f529c77,rubygems:> 1.3.1
+1.0.0 nokogiri:>= 0,rubyzip:>= 0|checksum:9fa4f247912cdd8dff19d542429476398a517d8982db7cb12035ea4bb80e3659
+1.0.1 nokogiri:>= 0,rubyzip:>= 0|checksum:a2bf612c370d3a911dbe5f67a43eebd652cfbc974edf30ec12e8b13fca9f21b9
+1.0.2 nokogiri:>= 0,rubyzip:>= 0|checksum:0d959eb49fe1ed60bbade6ff9f4415fea71f108a07ef9a4fd2d6e5a3f125cee3
+1.0.4 nokogiri:>= 0,rubyzip:>= 0|checksum:467057328c48f9edef8c402aa80ea10d49f9319ad91a0d02e57131ccb63fdccf

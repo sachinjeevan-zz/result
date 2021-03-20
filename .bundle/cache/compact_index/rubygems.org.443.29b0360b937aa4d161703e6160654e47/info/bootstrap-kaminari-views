@@ -1,0 +1,5 @@
+---
+0.0.1 kaminari:>= 0.13,rails:>= 3.1|checksum:8d826da7684ad496b52763018d4573900fb55f8b5c76cf9a8fd78c0530e4873a
+0.0.2 kaminari:>= 0.13,rails:>= 3.1|checksum:a835157de821f9680588537948c94f20fbdee55f22a1fe8d9ee2beefd91b349a
+0.0.3 kaminari:>= 0.13,rails:>= 3.1|checksum:3d72912069d53cb085a81562c629e7ae5abf9639392ea4e2d961f8697726cfca
+0.0.5 kaminari:>= 0.13,rails:>= 3.1|checksum:ae6beb4fd9ab19cae72e0b645ec9e74614c9b486b611b061189b861f3443429e

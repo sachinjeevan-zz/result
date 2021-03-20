@@ -1,0 +1,16 @@
+---
+1.0.0 httparty:~> 0.13|checksum:f82333f6346799e2a4852955b6091ec0c9327d2ea3a48e665c66aa119dfaf480
+1.0.1 httparty:~> 0.13|checksum:9fbd8c031e67caafab9ce154eb53abf87b355c533c53f781ce3a1f96ef068a79
+1.0.2 httparty:~> 0.13|checksum:c17b3b10f9313ba8df3b44b1063fda365e50ec0936f07b4e177316f9a1e510fc
+1.0.3 httparty:~> 0.13|checksum:c1c3730032b739220abc20dc9adc44dcd94f7e59f01c5e73c9a5063abcc7b95e
+1.1.0 httparty:~> 0.13|checksum:0296f6cf795d5c1d570580bf8cba76eb3964da73b526d2c20163bc39ef5ee3a9
+1.2.0 httparty:~> 0.13|checksum:ae224bb4716135b42164ee9df86e75c8f1b1baebd8d0da59b60957eb690f992a
+1.2.1 httparty:~> 0.13|checksum:12c6f143099c6b84d95ed7fadd0c05295f73936cfc00c2d3cfa58d51ff3020b5
+2.0.0 httparty:~> 0.14|checksum:8ed2354882cbab2cca2ffcdbe1b252963be97414a70782966e6d8cd8167f2f95
+2.0.1 httparty:~> 0.14|checksum:a4d18dcfe387a81628aecbbdc85612d9f69c758593377509ff2ebd0080a970e4
+2.1.0.pre httparty:~> 0.14|checksum:85ad4ef92d00851dd24572d6f2326ca47095745f38481f9139dc1f8be1592faa,rubygems:> 1.3.1
+2.1.0 httparty:~> 0.14|checksum:b68fdd41a036d4aca8d00f8534a7b7daf1c21b98b45becc3e5c4b30dad361107
+2.2.0 httparty:~> 0.14|checksum:45be06d361e5a4babc600434ec17997f66dfa7418fb31d926892cec2771de3d1
+2.3.0 httparty:~> 0.14|checksum:93d8afca24565a572b965fc4e2824a2ddd22ac5932f257467ff707c99f50e5f3
+2.4.0 httparty:~> 0.14|checksum:c36d00ed4bab7c02cd8a971e24041cdea9ea924fd7880802fdbbbb10a68b2e1d
+2.4.1 httparty:~> 0.14|checksum:967e5389b3228c74fda71419914b47ffd357eee757b48a3fcbc297769bdba5ca

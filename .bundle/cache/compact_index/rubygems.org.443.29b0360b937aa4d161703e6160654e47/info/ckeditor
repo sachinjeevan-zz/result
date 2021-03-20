@@ -1,0 +1,57 @@
+---
+3.2.1 |checksum:130d639489afe4b3ff89a043a65ec8a01f3725a6a4bca8030c74ce83f356dbce
+3.2.3 |checksum:9a2a549393ee0cab5877f881e8307211748956ee4056edfaa459ce9c7812c3cd
+3.2.4 |checksum:198467b34f2b7b69869d39ceaac8c3a2063478ac9ecd4966f9a29a8df41e9cbd
+3.3.2 mime-types:>= 1.16|checksum:721a71f5acf23b81117ebddd857598f37f4f6c0894d0e4a89727fec16d2f2245
+3.4.0.pre |checksum:1e396270149067866bf4a2451cfa805e1e35004d01289680a7f8babd00e93ee6,rubygems:> 1.3.1
+3.4.0 mime-types:>= 1.16|checksum:23181abe867d1c51c4f15c8ea0fb4197148a71da817c21ff1c1090c7977a32fc
+3.4.1 mime-types:>= 1.16|checksum:f6ebb847079e153f06912caa990d5ac7531aea092ea83b2d1dfcc7b432ba65fa
+3.4.1.pre mime-types:>= 1.16|checksum:f5be5d28188c2e78fb9c99134658bbbd60470d8eb1a7d66ee7d71ddb59e42271,rubygems:> 1.3.1
+3.4.2 mime-types:>= 1.16|checksum:76b71566fa3b7ef4c63b9df4d25f3272d0e0eebb6d79fbe3410a57fd985d76ef
+3.4.2.pre mime-types:>= 1.16|checksum:4d4f9bc689971939baa1046aa66bbb4d27d0f1e476d37fde7afeb5f2b4ba2018,rubygems:> 1.3.1
+3.4.3 mime-types:>= 1.16|checksum:28a15b8e79d3160f6a2363845fad9c24e7445a75a6e72f6cb7bc8510e54bdaba
+3.4.3.pre mime-types:>= 1.16|checksum:a78a22aff7a903d63f77ed6537e80c908960d6463cf9413518d59f758704e45f,rubygems:> 1.3.1
+3.5.0 mime-types:>= 1.16|checksum:3104502b1913becc18396c7e052e631024b08a4d87aab4fbc73f4a0c3da7bb20
+3.5.1 mime-types:>= 1.16|checksum:2f7e43930144b9a9b42385f5300bd9a4f175db9e14822cbaccb122227743aab6
+3.5.2 mime-types:>= 1.16|checksum:394276f9f6e56215eb884c401ea101b052740afd5c38c6a3be4b1d4b6178af61
+3.5.3 mime-types:>= 1.16|checksum:1f012497dfe54230d8a3d71f4942daff17ee5ed8c01454b46cb695476a0551e7
+3.5.4 mime-types:>= 1.16|checksum:9601ef9b5a7ac0839a5d2dc9d5d46bbc9147ef85d1e71435e5ddf94b4aa056dd
+3.6.0.pre mime-types:~> 1.16,orm_adapter:~> 0.0.5|checksum:808e8270d97b49f59452408e7164faed35ad09ad8e478865c86fb708fc1a786a,rubygems:> 1.3.1
+3.6.0 mime-types:~> 1.16,orm_adapter:~> 0.0.5|checksum:6ff3bc5788628ff984bb9218965dba64953b3bf7cef67b1c15ed872b25c9bfc6
+3.6.1 mime-types:~> 1.16,orm_adapter:~> 0.0.5|checksum:ea32a2c4f4c3956dde45a97a81acf830194cf10df60ae4939341372bcb00eea3
+3.6.2 mime-types:~> 1.16,orm_adapter:~> 0.0.5|checksum:5cf1fea2bc164e7693e0ba8bbf7d0fe914e082ed8bb74129bb4378c410cf1bc0
+3.6.3 mime-types:~> 1.16,orm_adapter:~> 0.0.5|checksum:136850b19b1f91a452db0beb95cba9f9080cc4d8afc030a445dde399581e87b4
+3.7.0.rc1 mime-types:~> 1.16,orm_adapter:~> 0.0.5|checksum:db9a9a115a7a99b0d44ced509d64ac386d61928611aa751c2394077a8d609b2b,rubygems:> 1.3.1
+3.7.0.rc2 mime-types:~> 1.17.2,orm_adapter:~> 0.0.6|checksum:c70098b1b3faa3120601d2cf59a042a8b5e053a557e32a7bf36429129af07990,rubygems:> 1.3.1
+3.7.0.rc3 mime-types:~> 1.17.2,orm_adapter:~> 0.0.6|checksum:594a6b83abcfd8143587ce2e2e608a63410a9df378ebca210a3f9f5b7f413b45,rubygems:> 1.3.1
+3.7.0 mime-types:~> 1.17.2,orm_adapter:~> 0.0.6|checksum:a4df4639bd5bda32afaf003f7bd1c0ee1d7dd53326718a61a63cfde0d10460c2
+3.7.1 mime-types:>= 0,orm_adapter:>= 0|checksum:19ca266c2c6c59ba5f6bebd9f7a57e344d3363fd7c939dfe4d33db4288772c32
+3.7.2 mime-types:>= 0,orm_adapter:>= 0|checksum:4b60eb63bb359b20dd91e31a8687039375b102b6e15afdcfd92d342eef4bfe09
+3.7.3 mime-types:>= 0,orm_adapter:>= 0|checksum:dc970bbc2464c95d84a8925db0ce418985049a705d26566d88ebb3b8b7505039
+4.0.0.rc1 mime-types:>= 0,orm_adapter:>= 0|checksum:ea8fd4c4066b6c8b0d7b96452b1c1160fa736d7da7d3048962b235f48229204f,rubygems:> 1.3.1
+4.0.0.rc2 mime-types:>= 0,orm_adapter:>= 0|checksum:9360861b5ff7181c3bb44e40e6230a380473ebe28db1469c96ed382d3bc73888,rubygems:> 1.3.1
+4.0.0 mime-types:>= 0,orm_adapter:>= 0|checksum:9d494c75b4721165249971191939633aa2f474b85215a120236802295a5f1710
+4.0.1 mime-types:>= 0,orm_adapter:>= 0|checksum:7d0b5531ba19016fdde09aa2b324aee2238ec51661f767234e1a594d35547791
+4.0.2 mime-types:>= 0,orm_adapter:>= 0|checksum:0e094c360440f3fdafbcbb989c3a848f28e1da2cf6a846604e89e57478542e12
+4.0.4 mime-types:>= 0,orm_adapter:>= 0|checksum:47941668edf06c2e0125ff03b3f542818777bdfb61f7f9b96d063a705ce4514f
+4.0.6 mime-types:>= 0,orm_adapter:>= 0|checksum:81661d13f80ebd1b2ea73a46cffcffdb706bd10a508055c3a6158e7160871535
+4.0.7 mime-types:>= 0,orm_adapter:>= 0|checksum:74bed690a18920698586ca31c67711d4595b37be80c0287f72bdaf47bd7e6d53
+4.0.8 mime-types:>= 0,orm_adapter:>= 0|checksum:fd20be6d03d2972c77a580ce99a591d547a054863a224d1ba230de644a6b17b5
+4.0.9 mime-types:>= 0,orm_adapter:~> 0.5.0|checksum:a75c324b69975203bf269e7f444e5d699de901fbebd610faca21638c439ee682
+4.0.10 mime-types:>= 0,orm_adapter:~> 0.5.0|checksum:bbdb0d3d319e0c9b276a0457f1182e7c8c6062160e03a33242bc8ce95ed2c53b
+4.0.11 mime-types:>= 0,orm_adapter:~> 0.5.0|checksum:04d01da0490976a7c82edfb64e341304260a1b07b7498448baa9325d69b07ffa
+4.1.0 mime-types:>= 0,orm_adapter:~> 0.5.0|checksum:69c8cc7d15c95572688560e42c3f15fe9999787661e81ae6bd489b1312d78a23
+4.1.1 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:f139ad4146cc17254afc0dcae87e7040abf82d2eac529f3df93256e940cfc557
+4.1.2 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:cc8a8a0ac3663032258e8fe2fa9c3e701d5abe37cd286ef84b4b9b210f47fa93
+4.1.3 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:9ec279194f5deb38e4eb5768af4ce1a1de50e5c1615f276b5325699e5d2bc661
+4.1.4 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:ce8f36aa011f55ff7086f8a126f79212d4b135d40a3ec9df0f462bc7787d54ae
+4.1.5 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:d9ffae75f19508b94541bff22495aaafa15584bc585f51a8f7b088d11ed0806a
+4.1.6 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:da597a0c56179c38364e1ad92e62eb8f8aad1fee65cc0fa908f30ed2d69d1e8a
+4.2.0 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:5aafc21c7f0ca85d4ffc49654aa2b7a9aee11eff936e0804ccbdbbe38fdc155d
+4.2.1 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:e144abc46470e0a25dbc0928904ee4f34d95ee91ab7bfb9b22106fcc58b60975
+4.2.2 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:ef50d4203b92681150a8193ca4e406bf5837186d2bf2cd6d48382b42722d6c46
+4.2.3 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:79b043fa256d87f518f5e943a0cadb970d0e67278b0b93739e6352eaa6313965
+4.2.4 cocaine:>= 0,orm_adapter:~> 0.5.0|checksum:329c4891e2bd89c251f6d90712536998274bdcd0a12b98720297e22e9ca3539f
+4.3.0 orm_adapter:~> 0.5.0,terrapin:>= 0|checksum:7ed7f9f0616b620d6bbb6612d55fc4bb261d962d0fc95c0f5513cd8090c448fc
+5.0.0 orm_adapter:~> 0.5.0|checksum:b866a268f361ef9eba231cf4ae9e03c4d08e2f10dfe76e4dc08d4bb61dd25165
+5.1.0 orm_adapter:~> 0.5.0|checksum:d8e7f7752a893209d58a783ba6f56484eef5b27109353c7b467eb62b4cdf2105
